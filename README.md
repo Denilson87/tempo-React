@@ -5,4 +5,7 @@ App React Temperatura local e das cidades intruduzidas pelo usuario atraves da p
 #OpenApi
 </h6>
 
+npm install
+npm start 
+ 
 
