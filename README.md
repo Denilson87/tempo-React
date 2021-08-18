@@ -1,4 +1,7 @@
 <h6 align="center">
- Desafio React Temperatura local e das cidades intruduzidas pelo usuario atraves da pesquisa consumindo o ficheiro (cities.json) 
+App React Temperatura local e das cidades intruduzidas pelo usuario atraves da pesquisa consumindo o ficheiro (cities.json) 
 </h6>
+#Forecast
+#API
+#OpenApi
 
