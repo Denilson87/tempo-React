@@ -3,9 +3,12 @@ App React Temperatura local e das cidades intruduzidas pelo usuario atraves da p
 #Forecast
 #API
 #OpenApi
+ <br>
+ npm install
+ <br>
+  npm start 
 </h6>
 
-npm install
-npm start 
+
  
 
